@@ -1,5 +1,5 @@
 ﻿var activePage = true;
-var timeoutRequest = 500;
+var timeoutRequest = 560;
 /*
 	Порт лаунчера
 */
