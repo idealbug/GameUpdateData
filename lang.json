@@ -320,7 +320,7 @@
     {
         "id": 53,
         "RU": "`Вы можете создать список игнорируемых файлов.<br>При загрузки патча, Game Update не будет загружать Вами указанный файл, просто пропустит его загрузку!<br>Это может быть полезно, если Вы не хотите загружать options.ini, user.ini...<br>`,",
-        "EN": "`You can create a list of ignored files.<br>When downloading a patch, the Game Update will not download the specified file, it will simply skip downloading it!<br>This can be useful if you don't want to download the options.ini, user.ini files...<br>`,",
+        "EN": "You can create a list of ignored files.<br>When downloading a patch, the Game Update will not download the specified file, it will simply skip downloading it!<br>This can be useful if you don't want to download the options.ini, user.ini files...<br>",
         "UA": "Ви можете створити список ігнорованих файлів. <br> При завантаження патча, Game Update НЕ буде завантажувати Вами зазначений файл, просто пропустить його завантаження! <br> Це може бути корисно, якщо ви не хочете завантажувати options.ini, user.ini...<br>"
     },
     {
@@ -680,7 +680,7 @@
     {
         "id": 113,
         "RU": "`В папке лаунчера нет скриншотов.<br>Убедитесь что Вы указали пути к клиентам, в них лаунчер будет искать скриншоты. Нажмите на кнопку \"Импортировать изображения\" и лаунчер добавит их в свою директиву.`,",
-        "EN": "`There are no screenshots in the launcher folder.<br>Make sure that you have specified the paths to the clients, the launcher will search for screenshots in them. Click on the \"Import images\" button and the launcher will add them to its directive.`,",
+        "EN": "There are no screenshots in the launcher folder.<br>Make sure that you have specified the paths to the clients, the launcher will search for screenshots in them. Click on the \"Import images\" button and the launcher will add them to its directive.",
         "UA": "В папці лаунчер немає скріншотів. <br> Переконайтеся що Ви вказали шляху до клієнтів, в них лаунчер буде шукати скріншоти. Натисніть на кнопку \"Імпортувати зображення\" і лаунчер додасть їх в свою директиву."
     },
     {
