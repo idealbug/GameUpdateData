@@ -525,8 +525,8 @@
     },
     {
         "id": 87,
-        "RU": "<p>Все сервера отображаемые в лаунчере, находится в общей базе, при регистрации, вы добавляете свой сервер в базу.<\/p><p>Вам необходимо заполнить данные необходмые для лаунчера.<\/p><p>После заполнения, вы получите код ваших настроек, его нужно передать <a href=\"https:\/\/t.me\/Cannabytes\">разработчику лаунчера<a\/>.<\/p><p>После успешной проверки, ваш сервер появится в базах у всех пользователей лаунчера.<\/p>,",
-        "EN": "<p>All servers displayed in the launcher are located in a common database, when registering, you add your server to the database.<\/p><p>You need to fill in the data required for the launcher.<\/p><p>After filling in, you will receive the code of your settings, you need to pass it <a href=\"https:\/\/t.me\/Cannabytes\">to the launcher developer<a\/>.<\/p><p>After successful verification, your server will appear in the databases of all users of the launcher.<\/p>,",
+        "RU": "<p>Все сервера отображаемые в лаунчере, находится в общей базе, при регистрации, вы добавляете свой сервер в базу.<\/p><p>Вам необходимо заполнить данные необходмые для лаунчера.<\/p><p>После заполнения, вы получите код ваших настроек, его нужно передать <a href=\"https:\/\/t.me\/Cannabytes\">разработчику лаунчера<a\/>.<\/p><p>После успешной проверки, ваш сервер появится в базах у всех пользователей лаунчера.<\/p>",
+        "EN": "<p>All servers displayed in the launcher are located in a common database, when registering, you add your server to the database.<\/p><p>You need to fill in the data required for the launcher.<\/p><p>After filling in, you will receive the code of your settings, you need to pass it <a href=\"https:\/\/t.me\/Cannabytes\">to the launcher developer<a\/>.<\/p><p>After successful verification, your server will appear in the databases of all users of the launcher.<\/p>",
         "UA": "<p> Всі сервера відображаються в лаунчер, знаходиться в загальній базі, при реєстрації, ви додаєте свій сервер в базу. <\/p> <p> Вам необхідно заповнити дані необходмимі для лаунчер. <\/p> <p> Після заповнення, ви отримаєте код ваших налаштувань, його потрібно передати <a href=\"https:\/\/t.me\/Cannabytes\"> розробнику лаунчер <a\/>. <\/p> <p> Після успішної перевірки, ваш сервер з'явиться в базах у всіх користувачів лаунчер. <\/p>"
     },
     {
@@ -681,7 +681,7 @@
     },
     {
         "id": 113,
-        "RU": "В папке лаунчера нет скриншотов.<br>Убедитесь что Вы указали пути к клиентам, в них лаунчер будет искать скриншоты. Нажмите на кнопку \"Импортировать изображения\" и лаунчер добавит их в свою директиву.,",
+        "RU": "В папке лаунчера нет скриншотов.<br>Убедитесь что Вы указали пути к клиентам, в них лаунчер будет искать скриншоты. Нажмите на кнопку \"Импортировать изображения\" и лаунчер добавит их в свою директиву.",
         "EN": "There are no screenshots in the launcher folder.<br>Make sure that you have specified the paths to the clients, the launcher will search for screenshots in them. Click on the \"Import images\" button and the launcher will add them to its directive.",
         "UA": "В папці лаунчер немає скріншотів. <br> Переконайтеся що Ви вказали шляху до клієнтів, в них лаунчер буде шукати скріншоти. Натисніть на кнопку \"Імпортувати зображення\" і лаунчер додасть їх в свою директиву."
     },
@@ -867,8 +867,8 @@
     },
     {
         "id": 144,
-        "RU": "Буду рад любым идеям, напишите максимально внятно и кратко свои идеи мне в телеграм <a href=\"https:\/\/t.me\/Cannabytes\">@Cannabytes<\/a>.,",
-        "EN": "I will be glad to have any ideas, write your ideas as clearly and briefly as possible to me in telegrams <a href=\"https:\/\/t.me\/Cannabytes\">@Cannabytes<\/a>.,",
+        "RU": "Буду рад любым идеям, напишите максимально внятно и кратко свои идеи мне в телеграм <a href=\"https:\/\/t.me\/Cannabytes\">@Cannabytes<\/a>.",
+        "EN": "I will be glad to have any ideas, write your ideas as clearly and briefly as possible to me in telegrams <a href=\"https:\/\/t.me\/Cannabytes\">@Cannabytes<\/a>.",
         "UA": "Буду радий будь-яких ідей, напишіть максимально виразно і коротко свої ідеї мені в телеграм <a href=\"https:\/\/t.me\/Cannabytes\">@Cannabytes<\/a>."
     },
     {
@@ -903,8 +903,8 @@
     },
     {
         "id": 150,
-        "RU": "Создание вашего патча доступно в дополнительных настройках, которое откроется при нажатии на лого сайта, либо <a href=\"\/setting\/patch\/create\" class=\"aj\">нажмите сюда чтоб перейти<\/a>.,",
-        "EN": "Creating your patch is available in the advanced settings, which will open when you click on the site logo, or <a href=\"\/setting\/patch\/create\" class=\"aj\">click here to go<\/a>.,",
+        "RU": "Создание вашего патча доступно в дополнительных настройках, которое откроется при нажатии на лого сайта, либо <a href=\"\/setting\/patch\/create\" class=\"aj\">нажмите сюда чтоб перейти<\/a>.",
+        "EN": "Creating your patch is available in the advanced settings, which will open when you click on the site logo, or <a href=\"\/setting\/patch\/create\" class=\"aj\">click here to go<\/a>.",
         "UA": "Створення вашого патча є в додаткових настройках, яке відкриється при натисканні на лого сайту, або <a href=\"\/setting\/patch\/create\" class=\"aj\">натисніть сюди щоб перейти <\/a>."
     },
     {
